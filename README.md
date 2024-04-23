@@ -27,7 +27,7 @@ To use Aria's Superstore, follow these steps:
 1. Clone the repository to your local machine.
 2. Make sure you have Python installed.
 3. Install the required dependencies using `pip install -r requirements.txt`.
-4. Run the program by executing `python main.py`.
+4. Run the program by executing `python Superstore_CRUD.py`.
 5. Follow the on-screen prompts to navigate through the application.
 
 ## Dependencies
